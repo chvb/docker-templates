@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
-  <Date>2018-11-12</Date>
+  <Date>2020-09-25</Date>
   <Beta>False</Beta>
   <Category>Productivity Tools</Category>
   <Name>OnlyOfficeDocumentServer</Name>
   <Project>https://www.onlyoffice.com/</Project>
   <Overview>
+	  This Version is without the connection Limit of 20 Users.
     ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
 	HTTPS Support can be enable creating a "certs" folder in the data directory and placing onlyoffice.crt and onlyoffice.key in it. Add fonts by placing [fontname].ttf in the font folder and force updating the container.  
   </Overview>
