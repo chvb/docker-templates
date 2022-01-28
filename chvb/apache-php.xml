@@ -63,7 +63,7 @@ Add as many tasks as you need, save the file, and [b]restart[/b] the container.[
       <Mode>ro</Mode>
     </Volume>
   </Data>
-  <WebUI>http://[IP]:[PORT:8005]/</WebUI>
+  <WebUI>http://[IP]:[PORT:80]/</WebUI>
   <Banner>https://raw.githubusercontent.com/chvb/docker-templates/master/chvb/img/apache-php.png</Banner>
   <Icon>https://raw.githubusercontent.com/chvb/docker-templates/master/chvb/img/apache-php.png</Icon>
 </Container>
