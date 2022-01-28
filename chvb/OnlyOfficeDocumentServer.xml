@@ -62,7 +62,7 @@
     </Publish>
   </Networking>
   <Environment/>
-  <WebUI>http://[IP]:[PORT:8080]</WebUI>
+  <WebUI>http://[IP]:[PORT:80]</WebUI>
   <Banner></Banner>
   <Icon>https://github.com/chvb/docker-templates/raw/master/chvb/img/OnlyOfficeDocumentServer.jpg</Icon>
 </Containers>
